@@ -11,7 +11,7 @@
   "MAX_SUPPLY": 2000,
   "WEI_COST": 20000000000000000,
   "DISPLAY_COST": 0.02,
-  "GAS_LIMIT": 66543,
+  "GAS_LIMIT": 151114,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/camera-person-nft",
   "SHOW_BACKGROUND": true
