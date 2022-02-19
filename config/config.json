@@ -9,10 +9,10 @@
   "NFT_NAME": "Camera Person NFT",
   "SYMBOL": "Camera Person NFT",
   "MAX_SUPPLY": 2000,
-  "WEI_COST": 20000000000000000,
-  "DISPLAY_COST": 0.02,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
   "GAS_LIMIT": 110114,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/camera-person-nft",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/camera-person-nft",
   "SHOW_BACKGROUND": true
 }
